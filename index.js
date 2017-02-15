@@ -1,1 +1,4 @@
-module.exports = {routes: require('./routes')};
+module.exports = {
+  routes: require('./routes'),
+  middleware: require('./api'),
+};
