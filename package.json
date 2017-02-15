@@ -3,6 +3,8 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "@kununu/react-universal-scripts": "^0.8.4-prerelease.10"
+    "@kununu/react-universal-scripts": "^0.8.4-prerelease.11",
+    "react": "15.4.2",
+    "react-dom": "^15.4.2"
   }
 }
