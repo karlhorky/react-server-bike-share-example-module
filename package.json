@@ -1,5 +1,8 @@
 {
   "name": "react-server-bike-share-example-module",
   "version": "0.0.1",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "@kununu/react-universal-scripts": "^0.8.4-prerelease.10"
+  }
 }
